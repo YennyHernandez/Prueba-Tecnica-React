@@ -1,0 +1,20 @@
+main{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 8%;
+    max-width: 70%;
+}
+
+section , .imagen{
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+}
+h1{
+   text-align: center;
+    
+}
+.palabras{
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+}
